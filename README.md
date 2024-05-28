@@ -1,5 +1,7 @@
 ## BOAS VINDAS AO MEU PERFIL ❤️👨‍🎓
 
+![](https://media1.tenor.com/m/jXh0FyPqRgoAAAAC/kobe-wave.gif)
+
 Meu nome é Christian Cruz 
 
 - Estou estudando na alura
@@ -10,6 +12,3 @@ Meu nome é Christian Cruz
 
   0000113413995sp@al.educacao.sp.gov.br
 
-
-
-![](https://media1.tenor.com/m/jXh0FyPqRgoAAAAC/kobe-wave.gif)
