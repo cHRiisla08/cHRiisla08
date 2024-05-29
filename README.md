@@ -1,8 +1,8 @@
 ## BOAS VINDAS AO MEU PERFIL ❤️👨‍🎓
 
-![](https://media1.tenor.com/m/jXh0FyPqRgoAAAAC/kobe-wave.gif)
-
 Olá Meu nome é Christian Cruz 
+
+![](https://media1.tenor.com/m/jXh0FyPqRgoAAAAC/kobe-wave.gif)
 
 - Estou estudando na alura
 - Estou desenvolvendo na linguagem JavaScript
